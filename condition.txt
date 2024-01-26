@@ -1,0 +1,14 @@
+How old are you?: You are an adult
+What is the temperature outside?: The temperature is good today
+Go outside!
+Enter your name: Hello kk
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

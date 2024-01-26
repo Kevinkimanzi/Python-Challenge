@@ -1,0 +1,26 @@
+['pizza', 'hamburger', 'hotdog']
+hotdog
+hamburger
+hotdog
+meat
+[['coffe', 'soda', 'tea'], ['pizza', 'hamburger', 'hotdog'], ['cake', 'icecream']]
+1
+kevin
+21
+male
+Kevin is here!
+{'bowl', 'plate', 'spoon', 'knife', 'cup', 'fork'}
+bowl
+plate
+spoon
+knife
+cup
+fork
+Moscow
+None
+USA washington
+India New Deli
+Kenya Nairobi
+China Beijin
+Russia Moscow
+Germany Berlin

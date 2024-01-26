@@ -1,0 +1,15 @@
+Hello Kevin  Kimanzi Kilonzi
+22
+Your age is Kevin  Kimanzi Kilonzi 22
+you are of 100.5 of height
+Are you a human: False
+30
+Kevin Kimanzi
+13
+Kevin kimanzi
+KEVIN KIMANZI
+kevin kimanzi
+<class 'int'>
+80
+1.0
+What is your name?: How old are you?: How tall are you?: Hello Kevin You are 22 old and 21.0cm tall
