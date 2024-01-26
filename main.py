@@ -67,7 +67,48 @@ height = float(input("How tall are you?: "))
 age +=1
 print("Hello " +name +" " +"You are " +str(age) +" "+"old" +" "+"and" +" " +str(height) +"cm tall")
 
-#
+#ARGS AND KWARGS
+
+# ARGS - Parameter that will pack all argumnets into a tuple
+
+def add(*args):
+    sum = 0
+    for i in args:
+        sum +=i
+    return sum
+
+print(add(1,2,3,4,5))
+
+# kwags - parameter that will pack all argument into a dictionary
+#         useful so that a function can accept a varying amount of keyword argument
+
+def hello(**kwargs):
+    print("hello "+ kwargs['first']+ " "+kwargs['last'])
+
+hello(first="kevin", middle="kimanzi", last = "KIlonzi")
 
 
+#String.format() - optional method that gives user 
+#                 more control when displaying output
+
+animal = "cow"
+item = "moon"
+name = "Kevin"
+ #lets print the cow jumped over the moon
+
+print ("The {} jumped over the {}".format("cow","moon"))
+# or
+print ("The {} jumped over the {}".format(animal,item))
+
+text = "The {} jumped over the {}"
+print(text.format(animal,item))
+
+print("Hello, my name is {}".format(name))
+
+## Formating number
+# display 2 digit after the decimal
+
+number = 3.14159
+
+print("The number pi is {:.2f}".format(number))
 
