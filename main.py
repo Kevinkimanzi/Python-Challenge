@@ -47,3 +47,27 @@ print(name.capitalize())
 #uppercase and lowercase
 print(name.upper())
 print(name.lower())
+
+#TYPE CASTING
+# Ability to convert a data type of a value to another data type
+
+x = 1 
+y = 20.5
+z = "3"
+x= float(x)
+y= int(y)
+print(type(y))
+print(y*4)
+print(x)
+
+# USER INPUT
+name = input("What is your name?: ")
+age = int(input("How old are you?: "))
+height = float(input("How tall are you?: "))
+age +=1
+print("Hello " +name +" " +"You are " +str(age) +" "+"old" +" "+"and" +" " +str(height) +"cm tall")
+
+#
+
+
+
