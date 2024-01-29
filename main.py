@@ -110,5 +110,6 @@ print("Hello, my name is {}".format(name))
 
 number = 3.14159
 
-print("The number pi is {:.2f}".format(number))
+print("The number pi is {:.2f}".format(number)) # f is floating number
+
 
