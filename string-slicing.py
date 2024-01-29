@@ -4,7 +4,7 @@
 
 website = "http://google.com"
 
-website2 = "https://github.com"
+website2 = "http://github.com"
 
 name = "Kevin Kimanzi"
 first_name = name[0:5]
